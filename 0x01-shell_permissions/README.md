@@ -8,3 +8,4 @@ ANSWERS TASK 0x01-shell_permissions
 1_5. Adding execute permission
 1_6. Adding multiple permission
 1_7. Execute permission for all
+1_8. Only others with all permission
