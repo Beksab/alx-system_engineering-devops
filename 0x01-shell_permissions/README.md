@@ -12,3 +12,4 @@ ANSWERS TASK 0x01-shell_permissions
 1_9. -rwxr-x-wx permission
 1_10. Mirroring any permission
 1_11. Execute permission to subdirectories
+1_12. My_dir with 751 permission
