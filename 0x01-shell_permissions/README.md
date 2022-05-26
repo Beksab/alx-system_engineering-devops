@@ -10,3 +10,4 @@ ANSWERS TASK 0x01-shell_permissions
 1_7. Execute permission for all
 1_8. Only others with all permission
 1_9. -rwxr-x-wx permission
+1_10. Mirroring any permission
