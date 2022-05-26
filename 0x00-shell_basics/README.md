@@ -1,10 +1,9 @@
 ANSWERS ON TASK 0x00-shell_basics
 
-0. Where am I?
+1. Where am I?
 ✓ Printing the absolute path
 1. What’s in there?
-✓ Printing the directory's contents
-2. No place like home
+✓ Printing the directory's contents\2. No place like home
 ✓ Change to home directory
 3. The long format
 Display contents in long format
@@ -26,7 +25,6 @@ Delete my_first_directory
 ✓ All files here, parent, & in boot
 12. File type
 ✓ Iamafile type
-
 13. We are symbols & inhabit em
 ✓ Symbolic links
 14. Copy HTML files
