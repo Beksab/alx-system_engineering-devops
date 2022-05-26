@@ -1,1 +1,3 @@
-GitHub repo for 0x00. Shell, basics
+GitHub repository for:
+	0x00. Shell, basics
+	0x01. Shell, permissions
