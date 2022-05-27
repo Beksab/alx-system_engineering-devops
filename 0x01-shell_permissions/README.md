@@ -17,3 +17,4 @@ ANSWERS TASK 0x01-shell_permissions
 1_13. Changing the group owner
 1_14. Changing the owner and group owner
 1_15. Changing ownership of a symbolic link
+1_16. Taking the right of ownership
