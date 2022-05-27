@@ -16,3 +16,4 @@ ANSWERS TASK 0x01-shell_permissions
 1_12. My_dir with 751 permission
 1_13. Changing the group owner
 1_14. Changing the owner and group owner
+1_15. Changing ownership of a symbolic link
