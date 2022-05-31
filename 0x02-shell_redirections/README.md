@@ -9,3 +9,4 @@ ANSWERS FOR 0x02-shell_redirections
 5. Display the first 10 lines of /etc/passwd
 6. Write a script that displays the third line
 8. Script that writes into the file
+10. Write a script that deletes all the regular files (not the directories) with a .js extension
